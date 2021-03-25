@@ -1,2 +1,2 @@
 # kittenhash
- a minuature react.js project that displays the kitten contact list and allows you to search through a list of kittens
+a minuature react.js project that displays a kitten's contact list and allows them to search through it
