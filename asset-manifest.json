@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kittenhash/static/css/main.91517fcd.chunk.css",
+    "main.js": "/kittenhash/static/js/main.02dbb547.chunk.js",
+    "main.js.map": "/kittenhash/static/js/main.02dbb547.chunk.js.map",
+    "runtime-main.js": "/kittenhash/static/js/runtime-main.c62e6f2f.js",
+    "runtime-main.js.map": "/kittenhash/static/js/runtime-main.c62e6f2f.js.map",
+    "static/css/2.371d4030.chunk.css": "/kittenhash/static/css/2.371d4030.chunk.css",
+    "static/js/2.44945953.chunk.js": "/kittenhash/static/js/2.44945953.chunk.js",
+    "static/js/2.44945953.chunk.js.map": "/kittenhash/static/js/2.44945953.chunk.js.map",
+    "static/js/3.9dcc2f53.chunk.js": "/kittenhash/static/js/3.9dcc2f53.chunk.js",
+    "static/js/3.9dcc2f53.chunk.js.map": "/kittenhash/static/js/3.9dcc2f53.chunk.js.map",
+    "index.html": "/kittenhash/index.html",
+    "static/css/2.371d4030.chunk.css.map": "/kittenhash/static/css/2.371d4030.chunk.css.map",
+    "static/css/main.91517fcd.chunk.css.map": "/kittenhash/static/css/main.91517fcd.chunk.css.map",
+    "static/js/2.44945953.chunk.js.LICENSE.txt": "/kittenhash/static/js/2.44945953.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kittenhash/static/media/Lotion-RegularWithLigatures.c4474ee1.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c62e6f2f.js",
+    "static/css/2.371d4030.chunk.css",
+    "static/js/2.44945953.chunk.js",
+    "static/css/main.91517fcd.chunk.css",
+    "static/js/main.02dbb547.chunk.js"
+  ]
+}
