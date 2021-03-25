@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Lotion';
+  src: url('./container/font/Lotion-RegularWithLigatures.woff2') format('woff2')
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Lotion';
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'pnum';
+  font-variant-numeric: proportional-nums;
+  background-color: #4158D0;
+  background-image: linear-gradient(to left, #4158D0 0%, #C850C0 30%, #FFCC70 66%, #ffffff 100%);
+}
