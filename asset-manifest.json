@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kittenhash/static/css/main.91517fcd.chunk.css",
-    "main.js": "/kittenhash/static/js/main.02dbb547.chunk.js",
-    "main.js.map": "/kittenhash/static/js/main.02dbb547.chunk.js.map",
+    "main.js": "/kittenhash/static/js/main.713f0dba.chunk.js",
+    "main.js.map": "/kittenhash/static/js/main.713f0dba.chunk.js.map",
     "runtime-main.js": "/kittenhash/static/js/runtime-main.c62e6f2f.js",
     "runtime-main.js.map": "/kittenhash/static/js/runtime-main.c62e6f2f.js.map",
     "static/css/2.fe359a49.chunk.css": "/kittenhash/static/css/2.fe359a49.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.44945953.chunk.js",
     "static/css/main.91517fcd.chunk.css",
-    "static/js/main.02dbb547.chunk.js"
+    "static/js/main.713f0dba.chunk.js"
   ]
 }
